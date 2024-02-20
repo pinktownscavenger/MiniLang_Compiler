@@ -20,12 +20,12 @@ To use the MiniLang Scanner, follow these steps:
    cd MiniLang-Scanner
    ```
 
-3. **Run the scanner with a test file containing MiniLang source code:**
+3. **Open the `minilang_scanner.ipynb` file using Jupyter Notebook:**
    ```
-   python minilang_scanner.py test.minilang
+   jupyter notebook minilang_scanner.ipynb
    ```
 
-4. **The scanner will tokenize the MiniLang source code and print the list of tokens.**
+4. **Run the IPython Notebook and execute the cells to tokenize MiniLang source code.**
 
 ## Test Cases
 The repository includes test cases in the `test.minilang` file. These test cases cover various aspects of the MiniLang language and can be used to validate the correctness and robustness of the scanner implementation.
