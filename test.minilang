@@ -1,0 +1,19 @@
+// This is a comment
+x = 10 + 5
+y = x * 2
+print y
+
+a = 10
+b = 20
+if a == b
+    print true
+else
+    print false
+
+flag = true
+if flag != false
+    print "Flag is true"
+else
+    print "Flag is false"
+
+invalid_var@ = 5
