@@ -12,7 +12,7 @@ To use the MiniLang Scanner, follow these steps:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/your-username/MiniLang-Scanner.git
+   git clone https://github.com/pinktownscavenge/MiniLang_Scanner.git
    ```
 
 2. **Navigate to the repository directory:**
